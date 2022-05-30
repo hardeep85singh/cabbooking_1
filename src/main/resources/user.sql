@@ -1,0 +1,5 @@
+--INSERT INTO users
+----(username, firstName, lastName, email, phoneNumber, password, location)
+--VALUES ('hard', 'hardeep', 'singh', 'h.s@gmail.com', 8527021530, '12345');
+--
+--insert into user_location values('hard',1.00, 1.00);
